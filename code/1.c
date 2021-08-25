@@ -4,6 +4,7 @@ void PrintN(int n);
 
 void main()
 {
+    exit(0);
     int a;
     scanf("%d",&a);
     PrintN(a);
